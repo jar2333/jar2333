@@ -9,7 +9,6 @@
 
 ## Current projects:
 - 💎 [Bindings for the Open Dynamics Engine library in mruby](https://github.com/jar2333/mruby-ode)
-- 🕹️ Evolutionary algorithms for Lego procedural content generation with NYU Game Lab
 
 ## Previous projects:
 
