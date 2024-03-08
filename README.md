@@ -2,7 +2,7 @@
 
 ## I am a CS student interested in:
 
-- 🌐 Web development: SaaS, RESTful APIs, 
+- 🌐 Web development: Ruby on Rails, Django, React, RESTful APIs, Microservices, Cloud (AWS)
 - 🕹️ Game Development: engine architectures (ECS) and algorithms, particuarly those for procedural content generation.
 - 🐫 Compilers and Programming Languages: Toy compilers, DSL interpreters, and now type inference algorithms/formalisms!
 - 📈 Graph Theory: Graph algorithm implementation (st-orientations, graph rewriting, graph drawing, etc...)
