@@ -8,8 +8,9 @@
 - 📈 Graph Theory: Graph algorithm implementation (st-orientations, graph rewriting, graph drawing, etc...)
 - 🚧 Other miscellaneous topics! (stay tuned)
 
+<!--
 ## Current projects:
-
+-->
 
 ## Previous projects:
 - 💎 [EventAware](https://github.com/jar2333/EventAware): A Rails webapp for organizing events with unit testing (RSpec), integration testing (Cucumber), deployed on Heroku.
