@@ -23,6 +23,9 @@
 - 💎 [Bindings for the Open Dynamics Engine library in mruby](https://github.com/jar2333/mruby-ode)
 -->
 
+## Certificates and Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4a1e900a-4cc0-43eb-b1df-2f7d54c45bea" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
 **jar2333/jar2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
