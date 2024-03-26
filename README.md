@@ -1,6 +1,8 @@
 ### Welcome!
 
-## I am a CS student interested in:
+## I am a Software Developer, currently employed at [Akcelita Innovation Labs](https://www.akcelita.com/)
+
+## I have an interest in:
 
 - 🌐 Web development: Ruby on Rails, Django, React, RESTful APIs, Microservices, Cloud (AWS)
 - 🕹️ Game Development: engine architectures (ECS) and algorithms, particuarly those for procedural content generation.
