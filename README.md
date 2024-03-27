@@ -2,6 +2,12 @@
 
 ## I am a Software Developer, currently employed at [Akcelita Innovation Labs](https://www.akcelita.com/)
 
+Languages I know: Python, C++, JavaScript, Go, Ruby, Haskell, OCaml, C#, Java, and Bash.
+
+Languages I am learning: ReScript
+
+Languages I want to learn: Zig, Rust, Lua
+
 ## I have an interest in:
 
 - 🌐 Web development: Ruby on Rails, Django, React, RESTful APIs, Microservices, Cloud (AWS)
