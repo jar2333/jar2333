@@ -4,9 +4,9 @@
 
 Languages I know: Python, C++, JavaScript, Go, Ruby, Haskell, OCaml, C#, Java, and Bash.
 
-Languages I am learning: ReScript, APL
+Languages I am learning: ReScript, Zig
 
-Languages I want to learn: Zig, Rust, Lua
+Languages I want to learn: APL, Rust, Lua
 
 ## I have an interest in:
 
