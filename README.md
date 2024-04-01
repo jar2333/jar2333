@@ -8,7 +8,8 @@ Languages I am learning: ReScript, Zig
 
 Languages I want to learn: APL, Rust, Lua
 
-## I have a Bachelor of Arts degree from Columbia University, majoring in Computer Science
+## Education
+I have a *Bachelor of Arts* degree from **Columbia University**, majoring in **Computer Science**
 
 ## I have an interest in:
 
