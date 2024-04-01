@@ -18,9 +18,11 @@ Languages I want to learn: APL, Rust, Lua
 - 📈 Graph Theory: Graph algorithm implementation (st-orientations, graph rewriting, graph drawing, etc...)
 - 🚧 Other miscellaneous topics! (stay tuned)
 
-<!--
+
 ## Current projects:
--->
+- 📝 [SamoyedAPI](https://github.com/jar2333/SamoyedAPI): A simple RESTful microservice for supplying content to [my static blog](https://samoyed.blog).
+- 🕹️ [MatchMaker](https://github.com/jar2333/MatchMaker): A generic, extensible game server for matchmaking 2 player games, and for hosting tournaments. Features an HTTP and Websocket API for frontend or programmatic use.
+
 
 ## Previous projects:
 - 💎 [EventAware](https://github.com/jar2333/EventAware): A Rails webapp for organizing events with unit testing (RSpec), integration testing (Cucumber), deployed on Heroku.
