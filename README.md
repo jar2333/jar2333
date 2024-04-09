@@ -6,7 +6,7 @@ Languages I know: Python, C++, JavaScript, Go, Ruby, Haskell, OCaml, C#, Java, a
 
 Languages I am learning: ReScript, Zig
 
-Languages I want to learn: APL, Rust, Lua
+Languages I want to learn: Elixir, Rust, Lua, APL
 
 ## Education
 I have a *Bachelor of Arts* degree from **Columbia University**, majoring in **Computer Science**
