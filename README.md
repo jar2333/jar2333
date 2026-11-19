@@ -14,6 +14,7 @@ I have a *Bachelor of Arts* degree from **Columbia University**, majoring in **C
 ## Personal interests
 - Formal epistemology, particularly epistemic modal logic and Bayesianism
 - Christian theology & New Testament textual criticism
+- Recreational programming
 
 ## Previous projects:
 - 🌐 Software developer at [Akcelita Innovation Labs](https://www.akcelita.com/), delivering solutions in regulated industries.
