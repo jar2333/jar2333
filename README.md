@@ -5,7 +5,7 @@
 Languages I know: Python, C#, JavaScript, Go, Ruby, Haskell, OCaml, Java.
 
 ## Education
-I have a *Bachelor of Arts* degree from **Columbia University**, majoring in **Computer Science**
+I have a B.A. from **Columbia University**, majoring in **Computer Science**
 
 ## I specialize in
 - Software Development: Webapps with ASP.NET, Flask, Django and React, developer CLI tooling 
