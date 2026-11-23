@@ -18,8 +18,8 @@ I have a B.A. from **Columbia University**, majoring in **Computer Science**
 
 ## Previous projects:
 - 🌐 Software developer at [Akcelita Innovation Labs](https://www.akcelita.com/), delivering solutions in regulated industries.
-- 🐫 Part of the type theory working group for the [sslang research project](https://github.com/ssm-lang/sslang), working on pretty-printing tools for the type system's constraint solver.
-- 🕷️ Web crawler as part of my internship with the [Columbia Build Lab](https://www.columbiabuildlab.com/) (private repository)
+- 🐫 Part of the type theory working group for the [sslang research project](https://github.com/ssm-lang/sslang) (CS@CU)
+- 🕷️ Internship at the [Columbia Build Lab](https://www.columbiabuildlab.com/)
 
 <!--
 - 🌐 Web development: REST APIs, Ruby on Rails, Django, React, RESTful APIs, Microservices, Cloud (AWS)
