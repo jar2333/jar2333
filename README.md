@@ -12,7 +12,7 @@ I have a B.A. from **Columbia University**, majoring in **Computer Science**
 - Data Engineering: ETL, data cleaning & transformation, reproducible data pipelines, SQL analytics, BI & reporting (`postgres`, `mssql`, `jupyter`, `sqlalchemy`, `pandas`, `superset`)
 
 ## Personal interests
-- Formal epistemology, particularly epistemic modal logic and Bayesianism
+- Formal epistemology, particularly epistemic logic and Bayesian probability
 - Reading about Christian theology & New Testament textual criticism
 - Recreational programming
 
