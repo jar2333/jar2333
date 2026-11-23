@@ -13,7 +13,7 @@ I have a B.A. from **Columbia University**, majoring in **Computer Science**
 
 ## Personal interests
 - Formal epistemology, particularly epistemic modal logic and Bayesianism
-- Christian theology & New Testament textual criticism
+- Reading about Christian theology & New Testament textual criticism
 - Recreational programming
 
 ## Previous projects:
